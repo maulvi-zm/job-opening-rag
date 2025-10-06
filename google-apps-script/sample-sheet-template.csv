@@ -1,0 +1,37 @@
+job_title,company_name,location,job_description,requirements,gender_preference,minimum_age,maximum_age,minimum_experience_months,salary_range,job_type,employment_status,education_level,skills_required,status,openings_count
+Senior Backend Developer,TechCorp Indonesia,Jakarta,"We are looking for a Senior Backend Developer to join our engineering team. You will be responsible for designing and implementing scalable backend services, working with databases, and collaborating with frontend teams.","- 3+ years of backend development experience
+- Strong knowledge of Python and FastAPI
+- Experience with PostgreSQL
+- Understanding of RESTful API design
+- Good communication skills",any,25,40,36,15000000-25000000,full-time,permanent,Bachelor's Degree in Computer Science or related field,"Python, FastAPI, PostgreSQL, Docker, Redis",active,2
+Data Analyst,DataInsight Co,Bandung,"Join our data team to help analyze business metrics and create insights that drive decision-making. You will work with large datasets and create visualizations for stakeholders.","- 1+ years of data analysis experience
+- Strong SQL skills
+- Experience with data visualization tools
+- Ability to communicate insights clearly
+- Detail-oriented",any,22,35,12,8000000-12000000,full-time,permanent,Bachelor's Degree in Statistics or related field,"SQL, Excel, Tableau, Python",active,1
+Marketing Manager,BrandCo,Surabaya,"Lead our marketing efforts across digital and traditional channels. Develop strategies to increase brand awareness and drive customer acquisition.","- 5+ years of marketing experience
+- Experience managing teams
+- Strong understanding of digital marketing
+- Proven track record of successful campaigns
+- Excellent communication skills",any,28,45,60,20000000-35000000,full-time,permanent,Bachelor's Degree in Marketing or Business,"Digital Marketing, SEO, SEM, Analytics, Team Management",active,1
+Junior Frontend Developer,StartupXYZ,Jakarta,"Great opportunity for a junior developer to grow. You'll work on building modern web applications using React and collaborate with our design and backend teams.","- Fresh graduate or 1 year of experience
+- Knowledge of HTML, CSS, JavaScript
+- Familiarity with React
+- Eager to learn and grow
+- Good teamwork skills",any,21,30,0,6000000-9000000,full-time,permanent,Bachelor's Degree in Computer Science or related field,"JavaScript, React, HTML, CSS, Git",active,3
+Customer Service Representative,ServicePlus,Jakarta,"Provide excellent customer service through phone and email support. Help customers resolve issues and ensure satisfaction.","- High school diploma or equivalent
+- Good communication skills in Indonesian and English
+- Friendly and patient personality
+- Ability to handle complaints professionally
+- Computer literate",any,20,35,0,4500000-6000000,full-time,permanent,High School Diploma,"Customer Service, Communication, Problem Solving",active,5
+Sales Executive,SalesForce Ltd,Medan,"Drive sales growth by building relationships with clients and closing deals. Target both B2B and B2C markets.","- 2+ years of sales experience
+- Strong negotiation skills
+- Self-motivated and target-oriented
+- Valid driver's license
+- Willing to travel",any,23,40,24,7000000-15000000,full-time,permanent,Bachelor's Degree in any field,"Sales, Negotiation, CRM, Communication",active,4
+Part-time Graphic Designer,CreativeHub,Jakarta,"Work with our creative team on various design projects including social media content, marketing materials, and branding.","- Portfolio demonstrating design skills
+- Proficiency in Adobe Creative Suite
+- Understanding of design principles
+- Ability to work independently
+- Flexible schedule",any,20,35,6,3000000-5000000,part-time,temporary,Diploma in Graphic Design or related field,"Photoshop, Illustrator, InDesign, Figma",active,1
+

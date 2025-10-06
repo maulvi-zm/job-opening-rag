@@ -26,9 +26,11 @@ CREATE TABLE jobs (
     status VARCHAR(20) DEFAULT 'active', -- 'active', 'inactive', 'closed'
     openings_count INTEGER DEFAULT 1,
     created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
-    updated_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
+    updated_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
     -- Uncomment below if using pgvector for RAG
     -- embedding vector(1536) -- For RAG with OpenAI embeddings, adjust dimension as needed
+    -- Unique constraint for Google Sheets sync (enables UPSERT operations)
+    CONSTRAINT unique_job_identifier UNIQUE (job_title, company_name, location)
 );
 
 -- Indexes for jobs table
